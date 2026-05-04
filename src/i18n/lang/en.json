@@ -247,7 +247,7 @@
     "best_for_most": "Best for most computers",
     "no_install_needed": "No installation needed, portable",
     "for_arm_devices": "For ARM devices",
-    "apple_silicon": "Apple Silicon (M1/M2/M3/M4)",
+    "apple_silicon": "Apple Silicon (M Series)",
     "intel_mac": "Intel Chip",
     "universal_linux": "Universal Linux version",
     "for_debian_ubuntu": "For Debian/Ubuntu",
